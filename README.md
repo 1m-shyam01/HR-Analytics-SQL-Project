@@ -209,10 +209,15 @@ SQL querying · PostgreSQL · Data aggregation · Data filtering · Joins · Sub
 
 ---
 
-## Connect
+👤 Author
+Shyam Singh 🌐 Connect With Me
 
-- **Portfolio:** [https://shyam-analyst.vercel.app](https://shyam-analyst.vercel.app)
-- **GitHub:** [https://github.com/1m-shyam01](https://github.com/1m-shyam01)
+🌍**Portfolio:** [https://shyam-analyst.vercel.app](https://shyam-analyst.vercel.app)
+
+💻 **GitHub:** [https://github.com/1m-shyam01](https://github.com/1m-shyam01)
+
+🔗 LinkedIn: [https:linkedin.com/in/shyam-singh-190b7a2a6](https:linkedin.com/in/shyam-singh-190b7a2a6)
+⭐ If you found this project useful, consider giving it a star!
 
 ---
 
