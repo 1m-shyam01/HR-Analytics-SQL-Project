@@ -216,7 +216,7 @@ Shyam Singh 🌐 Connect With Me
 
 💻 **GitHub:** [https://github.com/1m-shyam01](https://github.com/1m-shyam01)
 
-🔗 LinkedIn: [https://www.linkedin.com/in/shyam-singh-190b7a2a6]
+🔗 LinkedIn: [https://www.linkedin.com/in/shyam-singh-190b7a2a6](https://www.linkedin.com/in/shyam-singh-190b7a2a6)
 
 ⭐ If you found this project useful, consider giving it a star!
 
